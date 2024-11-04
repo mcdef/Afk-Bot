@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "hidehide@rj8.so-net.ne.jp",
+    "password": "qaz78989090",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "himajinTQpa.aternos.me",
+    "port": 43249,
+    "version": "1.21.44.01"
   },
 
   "position": {
